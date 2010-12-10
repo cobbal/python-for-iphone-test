@@ -4,8 +4,8 @@ The program presents a default black screen and serves an interactive python ses
 
 before it will build, copy these directories from the built python-for-iphone project to this project
 
- * python-for-iphone/Python-2.6.5/_intsall/lib -> python-for-iphone-test/lib
- * python-for-iphone/Python-2.6.5/_intsall/include -> python-for-iphone-test/include
+ * python-for-iphone/Python-2.6.5/_install/lib -> python-for-iphone-test/lib
+ * python-for-iphone/Python-2.6.5/_install/include -> python-for-iphone-test/include
 
 This is still very rough code and has many issues including:
 
