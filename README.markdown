@@ -9,7 +9,7 @@ before it will build, copy these directories from the built python-for-iphone pr
 
 This is still very rough code and has many issues including:
 
- * Only works on an actual device due to an apple bug in the simulator
+ * Only works on an actual device due to an Apple bug in the simulator
  * Dynamic libraries are still used for the extensions
  * No pyobjc support
 
